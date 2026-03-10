@@ -10,4 +10,5 @@
  
  <img width="562" height="350" alt="testHibernate" src="https://github.com/user-attachments/assets/f9422be4-a50c-4206-9cd9-cdfea3ba83a6" />
 
-<img width="562" height="350" alt="testHibernate" src="https://github.com/user-attachments/assets/a1eb7a43-6d38-46d4-b34d-fe9295c9e712" />
+
+<img width="559" height="300" alt="presentation" src="https://github.com/user-attachments/assets/a3c67b5d-2ea3-4aba-b224-99bc754807b4" />
